@@ -5,6 +5,7 @@
 I've spent 10+ years designing and scaling the backend systems brands run on: ERP, CRM, CMS, SaaS and e-commerce platforms, REST APIs, AI integrations, workflow automation and AWS infrastructure. I lead teams and own systems end to end, from the database schema to deployment.
 
 - 🏢 Technical Lead at **Abhikant Digital Ads** (Dec 2023 – present)
+- 🛍️ E-commerce on **Shopify**, Magento, WordPress and OpenCart: custom checkout and catalogue logic, apps, extensions and integrations
 - 🚀 80+ projects delivered · 15+ developers led · 16 live platforms
 - 🤖 Recent focus: AI API integrations, automation and data extraction pipelines
 - 🤝 Open to full-time, part-time, contract and freelance work

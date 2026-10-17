@@ -32,7 +32,7 @@
   <text x="56" y="268" class="f" font-size="26" fill="#D5DBE7">I build the backend systems brands run on.</text>
 
   <!-- terminal line -->
-  <text x="56" y="312" class="mono" font-size="18" fill="#6F8CFF">$ <tspan fill="#D5DBE7">stack</tspan> <tspan fill="#8C97AD">--core</tspan> <tspan fill="#F2B33D">laravel php node.js aws ai</tspan><tspan class="cursor" fill="#D5DBE7"> █</tspan></text>
+  <text x="56" y="312" class="mono" font-size="18" fill="#6F8CFF">$ <tspan fill="#D5DBE7">stack</tspan> <tspan fill="#8C97AD">--core</tspan> <tspan fill="#F2B33D">laravel php node.js shopify aws ai</tspan><tspan class="cursor" fill="#D5DBE7"> █</tspan></text>
 
   <!-- stats -->
   <g class="f">
